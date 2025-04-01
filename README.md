@@ -56,7 +56,7 @@ true
 
 ¿Desea ordenar ascendentemente (A) o descendentemente (D)?:
 A
-```
+
 Método Burbuja
 9 10 21 5 15 2 -1 0
 9 10 5 21 15 2 -1 0
@@ -84,4 +84,5 @@ Arreglo ordenado:
 -1 0 2 5 9 10 15 21
 Comparaciones -> 28
 Cambios -> 22
+```
 ---
